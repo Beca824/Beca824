@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Becky Afyai 
-- 👀 I'm a passionate backend developer and programmer currently diving into the fascinating world of Python and Machine Learning 
+- 👀 I'm a passionate frontend developer and programmer currently diving into the fascinating world of Python and Machine Learning 
 - 🌱 
 
 I'm currently focusing on:
@@ -7,6 +7,10 @@ I'm currently focusing on:
 - Exploring various machine learning algorithms and their applications.
 - Contributing to open-source projects.
 - 💞️ 
+Frontend development 
+-HTML
+-Css
+-JS
 
 - **Backend Development:**
 - Django
