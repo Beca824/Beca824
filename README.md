@@ -24,6 +24,9 @@ Frontend development
   - Python
   - C++
   - C
+  - HTML
+  - Css
+  - Js
 
 - **Machine Learning:**
   - Numpy (beginner)
@@ -34,7 +37,7 @@ Frontend development
 - 📫 How to reach me
 - - **Email:** [beckyafyai@gmail.com](mailto:beckyafyai@gmail.com)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I'm an otaku ☺ who plays basketball.
 
 <!---
 Beca824/Beca824 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
