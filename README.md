@@ -6,9 +6,9 @@ I'm currently focusing on:
 - Exploring various machine learning algorithms and their applications.
 - Contributing to open-source projects.
   
--**Frontend development** 
+-**Frontend development:** 
 -HTML
--Css
+-CSS
 -JS
 
 - **Backend Development:**
