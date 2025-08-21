@@ -4,7 +4,8 @@
 I'm currently focusing on:
 - Deepening my understanding of Python.
 - Exploring various machine learning algorithms and their applications.
-- Contributing to open-source projects. 
+- Contributing to open-source projects.
+  
 -**Frontend development** 
 -HTML
 -Css
