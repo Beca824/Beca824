@@ -1,13 +1,11 @@
 - 👋 Hi, I’m Becky Afyai 
 - 👀 I'm a passionate frontend developer and programmer currently diving into the fascinating world of Python and Machine Learning 
-- 🌱 
 
 I'm currently focusing on:
 - Deepening my understanding of Python.
 - Exploring various machine learning algorithms and their applications.
-- Contributing to open-source projects.
-- 💞️ 
-Frontend development 
+- Contributing to open-source projects. 
+-**Frontend development** 
 -HTML
 -Css
 -JS
