@@ -1,44 +1,74 @@
-- 👋 Hi, I’m Becky Afyai 
-- 👀 I'm a passionate frontend developer and programmer currently diving into the fascinating world of Python and Machine Learning 
+# Hi there 👋, I'm Becky Afyai
 
-I'm currently focusing on:
-- Deepening my understanding of Python.
-- Exploring various machine learning algorithms and their applications.
-- Contributing to open-source projects.
-  
--**Frontend development:** 
--HTML
--CSS
--JS
+I'm an aspiring Cybersecurity Professional with a background in frontend development and a growing interest in offensive security, Linux, networking, and Python.
 
-- **Backend Development:**
-- Django
-- Python 
+I'm currently building hands-on experience through cybersecurity labs, practical projects, and scripting while expanding my knowledge of penetration testing and secure systems.
 
-- **Databases:**
-  - MySQL
-  
+---
 
-- **Languages:**
-  - Python
-  - C++
-  - C
-  - HTML
-  - Css
-  - Js
+## 🌱 Currently Learning
 
-- **Machine Learning:**
-  - Numpy (beginner)
-  - TensorFlow (beginner)
-  - Pandas (beginner)
-  - Matpotlib (beginner)
-    
-- 📫 How to reach me
-- - **Email:** [beckyafyai@gmail.com](mailto:beckyafyai@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...I'm an otaku ☺ who plays basketball.
+- Offensive Security
+- Penetration Testing
+- Python for Cybersecurity
+- Linux
+- Networking
+- Web Application Security
 
-<!---
-Beca824/Beca824 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 💻 Technical Skills
+
+### Languages
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+- C
+- C++
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+
+- Python
+- PHP
+
+### Databases
+
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Oracle VirtualBox
+- Kali Linux
+
+---
+
+## 🚀 Current Projects
+
+- 🔒 Cybersecurity Lab Journal
+- 🐍 Python Security Scripts *(Coming Soon)*
+- 🌐 Web Development Projects
+- 🛡️ Cisco Ethical Hacker Labs
+
+---
+
+## 📫 Connect with Me
+
+📧 **Email:** beckyafyai@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+When I'm not studying cybersecurity, you'll probably find me watching anime or playing basketball. 🏀✨
