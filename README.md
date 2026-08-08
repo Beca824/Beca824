@@ -14,6 +14,8 @@ I'm currently building hands-on experience through cybersecurity labs, practical
 - Linux
 - Networking
 - Web Application Security
+- Defensive Security
+- Strategic Security
 
 ---
 
