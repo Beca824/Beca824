@@ -55,8 +55,6 @@ I'm currently building hands-on experience through cybersecurity labs, practical
 ## 📫 Connect with Me
 
 Email: beckyafyai@gmail.com
-LinkedIn: linkedin.com/in/becky-afyai-ab66733b3/
-Portfolio: beckyportfolio.infinityfreeapp.com
 
 ---
 
