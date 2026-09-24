@@ -6,7 +6,7 @@ I'm currently building hands-on experience through cybersecurity labs, practical
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Offensive Security
 - Penetration Testing
@@ -19,7 +19,7 @@ I'm currently building hands-on experience through cybersecurity labs, practical
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Languages
 
@@ -43,21 +43,21 @@ I'm currently building hands-on experience through cybersecurity labs, practical
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
-- 🔒 Cybersecurity Lab Journal
-- 🐍 Python Security Scripts 
-- 🌐 Web Development Projects
-- 🛡️ Cisco Ethical Hacker Labs
+- Cybersecurity Lab Journal
+- Python Security Scripts 
+- Web Development Projects
+- Cisco Ethical Hacker Labs
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 Email: beckyafyai@gmail.com
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
-When I'm not studying cybersecurity, you'll probably find me watching anime or playing basketball 🏀✨.
+When I'm not studying cybersecurity, you'll probably find me watching anime or playing basketball.
