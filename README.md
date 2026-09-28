@@ -1,6 +1,6 @@
 # Hi there, I'm Becky Afyai
 
-I'm an aspiring Cybersecurity Professional with a background in frontend development and a growing interest in offensive security, Linux, networking, and Python.
+I'm a Junior Cybersecurity Analyst with a background in frontend development and a growing interest in offensive security, Linux, networking, and Python.
 
 I'm currently building hands-on experience through cybersecurity labs, practical projects, and scripting while expanding my knowledge of penetration testing and secure systems.
 
